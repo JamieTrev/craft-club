@@ -10,6 +10,7 @@ body {
     font-family: Dosis, Arial;
     font-weight: 300;
     color: black;
+    background-color: blueviolet;
 }
 
 /* headings and logo */
@@ -24,5 +25,34 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 210%;
+}
+
+#menu {
+    font-size: 50%;
+    letter-spacing: 4px;
+}
+
+#menu,
+#logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid white;
+}
+
+.active {
+    border-bottom: 1px solid white;
 }
