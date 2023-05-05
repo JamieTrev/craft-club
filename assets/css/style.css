@@ -28,6 +28,7 @@ h3 {
     float: left;
     font-size: 210%;
     font-weight: 500;
+    margin-left: 30px;
 }
 
 #menu {
@@ -110,7 +111,6 @@ h3 {
 
 #video {
     padding: 30px;
-    margin: auto;
 }
 
 .video-container {
@@ -131,27 +131,55 @@ hr {
 }
 
 #left-about {
-    margin: 20px;
-    background-color: red;
+    padding-top: 30px;
+    width: 33%;
+    float: left;
 }
 
-#left-center-about {
-    margin: 20px;
-    background-color: yellow;
-}
-
-#right-center-about {
-    margin: 20px;
-    background-color: green;
-}
+/* margin: 20px;
+background-color: red; */
 
 #right-about {
-    margin: 20px;
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+/* margin: 20px;
+background-color: blue; */
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
     background-color: blue;
 }
 
-.box {
+/* .box {
     padding-top: 30px;
     width: 20%;
     display: inline-block;
+} */
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h3 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
 }
