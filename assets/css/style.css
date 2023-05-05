@@ -176,12 +176,20 @@ background-color: blue; */
     margin-bottom: 50px;
 }
 
+.left-about-heading h3 {
+    text-align: center;
+}
+
+.left-about-heading p {
+    text-align: left;
+}
+
 .right-about-heading h3 {
-    text-align: right;
+    text-align: center;
 }
 
 .right-about-heading p {
-    text-align: right;
+    text-align: left;
 }
 
 #welcome {
