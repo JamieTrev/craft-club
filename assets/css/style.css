@@ -21,7 +21,7 @@ h3 {
     font-family: Nunito, Arial;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: #FF6D60;
+    color: #E90064;
 }
 
 #logo {
@@ -213,4 +213,29 @@ background-color: blue; */
     background: url('../images/pottery.jpg') no-repeat center center;
     height: 100%;
     background-size: cover;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #E90064;
 }
