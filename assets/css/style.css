@@ -27,11 +27,12 @@ h3 {
 #logo {
     float: left;
     font-size: 210%;
+    font-weight: 500;
 }
 
 #menu {
     font-size: 50%;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 }
 
 #menu,
@@ -71,9 +72,8 @@ h3 {
 }
 
 #cover-text,
-#cover-text h2 {
+#cover-text h3 {
     color: white;
-
 }
 
 #hero-image {
@@ -91,7 +91,7 @@ h3 {
     text-align: center;
 
     width: 325px;
-    height: 180px;
+    height: 150px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -110,32 +110,48 @@ h3 {
 
 #video {
     padding: 30px;
+    margin: auto;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
 }
 
 /* club-ethos */
+
+hr {
+    border-top: 1px solid #FF6D60;
+    width: 100%;
+    margin: 5px;
+}
 
 #club-ethos {
     height: 450px;
 }
 
 #left-about {
+    margin: 20px;
     background-color: red;
 }
 
 #left-center-about {
+    margin: 20px;
     background-color: yellow;
 }
 
 #right-center-about {
+    margin: 20px;
     background-color: green;
 }
 
 #right-about {
+    margin: 20px;
     background-color: blue;
 }
 
 .box {
     padding-top: 30px;
-    width: 24%;
+    width: 20%;
     display: inline-block;
 }
