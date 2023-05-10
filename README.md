@@ -6,3 +6,4 @@ Found out they would not upload because the file size was too big. I reduced the
 I downloaded ? images from www.pexels.com.
 
 I decided to choose a colour palette from colorhunt.co
+
