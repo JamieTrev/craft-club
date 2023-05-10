@@ -115,8 +115,17 @@ h3 {
 }
 
 .video-container {
-    display: flex;
-    justify-content: center;
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.video-container video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /* club-ethos */
@@ -137,28 +146,16 @@ hr {
     float: left;
 }
 
-/* margin: 20px;
-background-color: red; */
-
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
 }
 
-/* margin: 20px;
-background-color: blue; */
-
 #center-about {
     width: 33%;
     margin: 0 auto;
 }
-
-/* .box {
-    padding-top: 30px;
-    width: 20%;
-    display: inline-block;
-} */
 
 .left-about-heading {
     width: 60%;
@@ -219,6 +216,7 @@ background-color: blue; */
 
 footer {
     height: 150px;
+    width: 100%;
 }
 
 ul {
