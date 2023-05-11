@@ -264,3 +264,8 @@ ul {
     color: #3a3a3a;
     background-color: #fafafa;
     padding: 30px;
+}
+
+.booking-form h2 {
+    text-align: center;
+}
