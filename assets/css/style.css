@@ -11,6 +11,7 @@ body {
     font-weight: 300;
     color: black;
     background-color: #F7D060;
+    font-size: 16px;
 }
 
 /* headings and logo */
@@ -262,7 +263,7 @@ ul {
 .booking-form {
     margin: 150px 10% 0 10%;
     color: #3a3a3a;
-    background-color: #fafafa;
+    background-color: #efecd2;
     padding: 30px;
 }
 
@@ -276,7 +277,7 @@ ul {
 
 .text-input {
     margin: 10px 8% 20px 2%;
-    background: transparent;
+    background-color: #edece2;
     height: 25px;
     width: 90%;
     border: 2px solid #E90064;
@@ -288,34 +289,65 @@ ul {
     width: 100%;
     border: 2px solid #E90064;
     border-radius: 4px;
+    background-color: #edece2;
 }
 
 #message-box-label {
     font-size: 20px;
+    color: #E90064;
 }
 
 .form-submit-button {
-    background: hsl(289, 91%, 38%);
-    border: 2px solid white;
-    color: white;
+    background: #E90064;
+    color: #edece2;
     padding: 10px 10px;
     border-radius: 5px;
-    font-family: 'Shantell Sans', sans-serif;
-    font-size: x-large;
-    font-weight: 600;
+    font-family: Nunito, Arial;
+    font-size: large;
+    font-weight: 500;
     text-transform: uppercase;
     text-decoration: none;
 }
 
 .form-submit-button:hover {
     background: white;
-    border: 2px solid hsl(289, 91%, 38%);
-    color: hsl(289, 91%, 38%);
+    color: #E90064;
+    border: solid 1.5px #E90064;
     padding: 10px 10px;
     border-radius: 5px;
-    font-family: 'Shantell Sans', sans-serif;
-    font-size: x-large;
-    font-weight: 600;
+    font-family: Nunito, Arial;
+    font-size: large;
+    font-weight: 500;
     text-transform: uppercase;
     text-decoration: none;
+}
+
+input[type="radio"]::before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1.5px solid #E90064;
+    background-color: #fff;
+    margin-right: 15px;
+}
+
+input[type="radio"]:checked::before {
+    background-color: #E90064;
+}
+
+input[type="checkbox"]::before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 3px;
+    border: 1.5px solid #E90064;
+    background-color: #fff;
+    margin-right: 5px;
+}
+
+input[type="checkbox"]:checked::before {
+    background-color: #E90064;
 }
