@@ -55,11 +55,11 @@ h3 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #FF6D60;
+    border-bottom: 1px solid #E90064;
 }
 
 .active {
-    border-bottom: 1px solid #FF6D60;
+    border-bottom: 1px solid #E90064;
 }
 
 /* hero image */
@@ -111,13 +111,13 @@ h3 {
 
 #video {
     padding: 30px;
-    margin: 20px 0;
+    margin: 20px auto;
+    text-align: center;
 }
 
 .video-container {
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%;
 }
 
 .video-container video {
@@ -131,7 +131,7 @@ h3 {
 /* club-ethos */
 
 hr {
-    border-top: 1px solid #FF6D60;
+    border-top: 1px solid #E90064;
     width: 100%;
     margin: 5px;
 }
