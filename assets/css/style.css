@@ -250,3 +250,17 @@ ul {
 #photos>img {
     width: 100%;
 }
+
+/* booking form and comments styling */
+
+.form-section {
+    clear: both;
+    max-width: 800px;
+    width: 100%;
+}
+
+.booking-form {
+    margin: 150px 10% 0 10%;
+    color: #3a3a3a;
+    background-color: #fafafa;
+    padding: 30px;
