@@ -178,7 +178,7 @@ hr {
 }
 
 .left-about-heading p {
-    text-align: left;
+    text-align: center;
 }
 
 .right-about-heading h3 {
@@ -186,7 +186,7 @@ hr {
 }
 
 .right-about-heading p {
-    text-align: left;
+    text-align: center;
 }
 
 #welcome {
@@ -255,8 +255,6 @@ ul {
 
 .form-section {
     clear: both;
-    background-color: #98D8AA;
-    /* test to see if css is responding - also not sure if I require a margin-top: 30; to start the form below the header*/
     max-width: 800px;
     width: 100%;
 }
@@ -281,6 +279,43 @@ ul {
     background: transparent;
     height: 25px;
     width: 90%;
-    border: 2px solid hsl(289, 91%, 38%);
+    border: 2px solid #E90064;
     border-radius: 4px;
+}
+
+#message {
+    margin: 10px 0 20px 0;
+    width: 100%;
+    border: 2px solid #E90064;
+    border-radius: 4px;
+}
+
+#message-box-label {
+    font-size: 20px;
+}
+
+.form-submit-button {
+    background: hsl(289, 91%, 38%);
+    border: 2px solid white;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: 'Shantell Sans', sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.form-submit-button:hover {
+    background: white;
+    border: 2px solid hsl(289, 91%, 38%);
+    color: hsl(289, 91%, 38%);
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: 'Shantell Sans', sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
 }

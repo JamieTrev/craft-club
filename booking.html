@@ -37,7 +37,8 @@
 
     <section class="form-section">
         <Form class="booking-form" action="https://formdump.codeinstitute.net" method="POST">
-            <h2>Form Heading</h2>
+            <h2>Make a Booking</h2>
+            <br>
             <label for="fname">First Name</label>
             <input id="fname" class="text-input" name="first_name" type="text" required>
             <br>
@@ -48,10 +49,35 @@
             <input type="email" class="text-input" id="email" name="email_address" required>
 
             <h3>Which class would you like to book?</h3>
-            <p>Painting and Drawing</p>
-            <p>Crafting materials</p>
-            <p>Pottery</p>
-            <p>Birthday Celebration</p>
+            <p>(Select all that apply)</p>
+            <br>
+            <input type="checkbox" id="painting-checkbox" name="painting">
+            <label for="painting-checkbox">Painting & Drawing</label>
+            <br>
+            <input type="checkbox" id="crafting-checkbox" name="crafting">
+            <label for="crafting-checkbox">Crafting Materials</label>
+            <br>
+            <input type="checkbox" id="pottery-checkbox" name="pottery">
+            <label for="pottery-checkbox">Pottery</label>
+            <br>
+            <input type="checkbox" id="birthday-checkbox" name="birthday">
+            <label for="birthday-checkbox">Birthday Parties</label>
+            <br>
+
+            <h3>Age Group</h3>
+            <input type="radio" id="four-nine" name="child_age" value="four-nine" required>
+            <label for="four-nine">4-9 years</label>
+            <br>
+            <input type="radio" id="ten-fourteen" name="child_age" value="ten-fourteen" required>
+            <label for="ten-fourteen">10-14 years</label>
+
+            <h3>Anything to add?</h3>
+            <label for="message" id="message-box-label"><strong>Leave us a message:</strong></label>
+            <textarea id="message" rows="15" cols="76" name="message"></textarea>
+
+            <button type="submit" class="form-submit-button" value="submit">
+                Send <i class="fa-solid fa-paper-plane"></i>
+            </button>
 
         </Form>
 
