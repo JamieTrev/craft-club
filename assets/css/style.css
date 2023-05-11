@@ -255,6 +255,8 @@ ul {
 
 .form-section {
     clear: both;
+    background-color: #98D8AA;
+    /* test to see if css is responding - also not sure if I require a margin-top: 30; to start the form below the header*/
     max-width: 800px;
     width: 100%;
 }
@@ -268,4 +270,17 @@ ul {
 
 .booking-form h2 {
     text-align: center;
+}
+
+.booking-form h3 {
+    margin: 10px 0 5px 0;
+}
+
+.text-input {
+    margin: 10px 8% 20px 2%;
+    background: transparent;
+    height: 25px;
+    width: 90%;
+    border: 2px solid hsl(289, 91%, 38%);
+    border-radius: 4px;
 }
