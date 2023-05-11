@@ -27,7 +27,7 @@ h3 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 380%;
     font-weight: 500;
     margin-left: 30px;
 }
@@ -35,12 +35,14 @@ h3 {
 #menu {
     font-size: 50%;
     letter-spacing: 3px;
+    font-size: 110%;
+    color: #E90064;
+    font-weight: bold;
 }
 
 #menu,
 #logo {
     line-height: 75px;
-    font-size: 280;
     margin-left: 30px;
 }
 
@@ -138,7 +140,7 @@ hr {
 }
 
 #club-ethos {
-    height: 600px;
+    height: 650px;
 }
 
 #left-about {
@@ -243,9 +245,9 @@ ul {
 
 #photos {
     clear: both;
-    line-height: 0;
+    line-height: 1.5;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 1;
 }
 
 #photos>img {
