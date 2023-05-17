@@ -109,6 +109,18 @@ h3 {
     position: absolute;
 }
 
+/* Jump to classes section */
+
+.jump-to {
+    font-family: Nunito;
+    font-size: 300%;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #E90064;
+}
+
 /* Video */
 
 #video {
