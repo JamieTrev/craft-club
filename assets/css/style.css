@@ -214,6 +214,47 @@ td {
     transform: translateY(50%);
     font-size: small;
 }
+
+.booking-link {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.make-a-booking {
+    text-decoration: none;
+    background: #E90064;
+    border: solid 1.5px #E90064;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: Nunito, Arial;
+    font-size: large;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.make-a-booking h3 {
+    color:#EDECE2;
+}
+
+.make-a-booking:hover {
+    background: white;
+    border: solid 1.5px #E90064;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-family: Nunito, Arial;
+    font-size: large;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.make-a-booking h3:hover {
+    color:#E90064;
+}
+
 /* footer */
 footer {
     height: 150px;
