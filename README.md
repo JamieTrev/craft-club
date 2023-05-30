@@ -1,11 +1,26 @@
-# Craft club
+# PORTFOLIO PROJECT - 1
+
+# Craft Club
+
+## Purpose
 
 The Craft Club website is a landing page for parents and children looking for a fun and creative arts and crafts club for ages 4 to 14.
 Craft Club offers fun activities and caters to those wishing to explore their creative side.
 
 Users of this website will be able to find the information they need to know about our Craft Club such as available art class times, location, contact information and how to book. This site is targeted towards parents of children who want show their art skills.
 
-![Screenshot of the websites responsiveness using https://ui.dev/amiresponsive]
+* [Here is a link to the final project](https://jamietrev.github.io/craft-club/)
+
+## Final Design
+
+![Screenshot of the websites responsiveness using https://ui.dev/amiresponsive](assets/images/am-i-responsive.png)
+
+## INITIAL IDEA CONCEPT
+
+My initial idea for the project was to create a colourful art website for parents to easily book their children onto art classes or book birthday parties.
+
+
+
 
 ## Features
 
@@ -101,3 +116,5 @@ I reduced the image file size using <https://tinypng.com/>
 I downloaded ? images from www.pexels.com.ff
 I decided to choose a colour palette from colorhunt.co
 Used Lighthouse (performace score was 61 before resizing images on imageresizer.com and performance climbed to 83).
+
+Font Awesome for the icons
