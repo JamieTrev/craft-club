@@ -5,7 +5,7 @@ Craft Club offers fun activities and caters to those wishing to explore their cr
 
 Users of this website will be able to find the information they need to know about our Craft Club such as available art class times, location, contact information and how to book. This site is targeted towards parents of children who want show their art skills.
 
-![Screenshot of the websites responsiveness using https://ui.dev/amiresponsive]
+![Screenshot of the websites responsiveness using https://ui.dev/amiresponsive](assets/images/am-i-responsive.png)
 
 ## Features
 

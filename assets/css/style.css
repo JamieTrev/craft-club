@@ -26,6 +26,14 @@ h3 {
 
 hr {
     display: none;
+    border-top: 1px solid #e90064;
+    width: 100%;
+    margin: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
 }
 
 #logo {
@@ -127,12 +135,7 @@ hr {
     text-decoration: underline;
 }
 
-/* club-ethos */
-hr {
-    border-top: 1px solid #e90064;
-    width: 100%;
-    margin: 5px;
-}
+/* Club Ethos */
 
 #club-ethos {
     height: 650px;
@@ -301,11 +304,6 @@ footer {
     height: 150px;
     width: 100%;
     margin-top: 70px;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
 }
 
 footer p {
