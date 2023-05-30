@@ -101,3 +101,5 @@ I reduced the image file size using <https://tinypng.com/>
 I downloaded ? images from www.pexels.com.ff
 I decided to choose a colour palette from colorhunt.co
 Used Lighthouse (performace score was 61 before resizing images on imageresizer.com and performance climbed to 83).
+
+Font Awesome for the icons
