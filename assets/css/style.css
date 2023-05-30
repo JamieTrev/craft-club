@@ -261,9 +261,10 @@ td {
 
 .booking-link {
     display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 0;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+    margin-top: 20px;
 }
 
 .make-a-booking {
@@ -557,4 +558,13 @@ input[type="checkbox"]:checked::before {
     align-items: center;
     justify-content: center;
     }
+
+    /* Responsiveness for smaller screen sizes from 280px wide and down */
+
+@media screen and (max-width: 280px) 
+
+#logo {
+    font-size: 180%;
+    font-weight: 700;
+}
 }
