@@ -541,6 +541,17 @@ input[type="checkbox"]:checked::before {
 /* Responsiveness for smaller screen sizes from 440px wide and down */
 
 @media screen and (max-width: 440px) {
+
+#logo {
+    float: left;
+    font-size: 270%;
+    font-weight: 500;
+}
+
+#menu {
+    letter-spacing: 2px;
+}
+
 .table-container {
     flex direction: column;
     align-items: center;
