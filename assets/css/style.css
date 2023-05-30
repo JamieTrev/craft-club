@@ -561,10 +561,29 @@ input[type="checkbox"]:checked::before {
 
     /* Responsiveness for smaller screen sizes from 280px wide and down */
 
-@media screen and (max-width: 280px) 
+@media screen and (max-width: 280px) {
 
 #logo {
     font-size: 180%;
     font-weight: 700;
+}
+
+#menu {
+    letter-spacing: 0px;
+    font-size: 15px;
+}
+
+#hero-image {
+    height: 200px;
+}
+
+#cover-text {
+    font-size: 80%;
+    width: 240px;
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 10px;
+    right: 60px;
+}
 }
 }
