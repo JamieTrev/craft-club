@@ -15,7 +15,7 @@ Users of this website will be able to find the information they need to know abo
 
 ![Screenshot of the websites responsiveness using https://ui.dev/amiresponsive](assets/images/am-i-responsive.png)
 
-## INITIAL IDEA CONCEPT
+## INITIAL CONCEPT
 
 My initial idea for the project was to create a colourful art website for parents to easily book their children onto art classes or book birthday parties.
 
@@ -65,7 +65,33 @@ My initial idea for the project was to create a colourful art website for parent
 ## WIREFRAMES
 
 * My first draft of wireframes was drawn freehand, I did start to draw up these wireframes using https://app.diagrams.net/ but just like a lot of my artwork, I was unsure what exactly I wanted my site to look like so I left it vague
-![Screenshot of my wireframe](assets/images/wireframe.png)
+* ![Screenshot of my wireframe](assets/images/wireframe.png)
+
+## FEATURES
+
+* The site consists of: 
+    * 3 main pages, `HOME, GALLERY, MAKE BOOKING`
+    * Each page will have the same body layout, `HEADER (TITLE)`, `NAVBAR`, `MAIN CONTENT` and `FOOTER (ADDRESS AND SOCIAL MEDIA ICONS/LINKS)`
+* Navigation bar:
+* ![Screenshot of my header and nav bar](assets/images/nav-bar.png)
+* Footer:
+* ![Screenshot of my footer](assets/images/footer.png)
+* Layout and content:
+    * The Home page will have some introductory text and 4 images, followed by an overview of the site and two videos
+    * The Rules page will have information on the rules and styles of the sport including accompanying images
+    * The Gallery will have multiple images varying scenes in the sport of trials riding
+    * The Contact page will have a form to include first name, last name, email address and a submit button
+    * The Thankyou page with have some thankyou text and a thumbs up logo
+
+* Hover effect on links and social media icons:
+    * Indicates to the user the location of the mouse whilst navigating the menu
+    * A Curved underline helps the user to know which page they are currently on
+    * <img src="testing/hover effect.png" width=400>
+
+* Contact Form:
+    * Form validation requests the user to input the correct information in the input fields,
+      This avoids the user sending illegible text/email.
+    * <img src="testing/requiredtext.png" width=400>
 
 
 
