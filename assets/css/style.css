@@ -339,8 +339,7 @@ footer p {
     line-height: 1.5;
     column-count: 4;
     column-gap: 1px;
-    flex-wrap: wrap;
-    justify-content: center;
+    text-align: center;
 }
 
 #photos>img {
@@ -348,6 +347,7 @@ footer p {
     max-width: 300px;
     height: auto;
     margin: 10px;
+    border: 2px solid #e90064;
 }
 
 /* booking form and comments styling */

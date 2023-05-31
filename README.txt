@@ -19,6 +19,53 @@ Users of this website will be able to find the information they need to know abo
 
 My initial idea for the project was to create a colourful art website for parents to easily book their children onto art classes or book birthday parties.
 
+* The Features I wanted the project to have are:
+
+    * To make the site easy to read
+    * Have a bright colour scheme (yellow red, purple)
+    * Have an easy to navigate "Nav Bar" 
+    * Look fun with images, and easy to book classes
+
+#  
+#  
+## CONTENTS
+
+- [UX/UI](#uxui)
+- [WIREFRAMES](#wireframes)
+  * [FEATURES](#features)
+  * [DESIGN](#design)
+- [TESTING](#testing)
+  * [DEVICES](#devices)
+  * [VALIDATORS](#validators)
+  * [LIGHTHOUSE](#lighthouse)
+  * [ACCESSIBILITY](#accessibility)
+- [SOLVED BUGS AND ERRORS](#solved-bugs-and-errors)
+  * [UNSOLVED BUGS AND ERRORS](#unsolved-bugs-and-errors)
+  * [FUNCTIONALITY](#functionality)
+- [TECHNOLOGIES USED](#technologies-used)
+  * [PROGRAMS USED](#programs-used)
+- [DEPLOYMENT](#deployment)
+  * [REMOTE](#remote-deployment)
+  * [HOW TO FORK A REPOSITORY](#how-to-fork-a-repository)
+  * [HOW TO CLONE A REPOSITORY](#how-to-clone-a-repository)
+  * [HOW TO MAKE A LOCAL CLONE](#how-to-make-a-local-clone)
+
+- [CREDITS](#credits-and-references)
+  * [IMAGES AND INFORMATION](#images-and-information)
+  * [CODE](#code)
+- [ACKNOWLEDGEMENTS](#acknowledgements)
+
+#  
+#
+# UX/UI
+* This website was created to show my knowledge of HTML and CSS and to provide a fun service to parents and children
+* The site should be simple to navigate and easy for parents to book art classes
+* The site should be easy to read, images should be clear without dimensions being compromised
+
+## WIREFRAMES
+
+* My first draft of wireframes was drawn freehand, I did start to draw up these wireframes using https://app.diagrams.net/ but just like a lot of my artwork, I was unsure what exactly I wanted my site to look like so I left it vague
+![Screenshot of my wireframe](assets/images/wireframe.png)
 
 
 
