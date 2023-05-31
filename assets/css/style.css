@@ -554,7 +554,6 @@ input[type="checkbox"]:checked::before {
 }
 
 .table-container {
-    flex direction: column;
     align-items: center;
     justify-content: center;
     }

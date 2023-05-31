@@ -99,11 +99,57 @@ My initial idea for the project was to create a colourful art website for parent
     * This was always going to be a bright colour due to the fact this is an arts a crafts website, the colour scheme chosen were yellow, red and purple, all the while ensuring all text was clear and readable
     * ![Screenshot of color scheme chosen at https://colorhunt.co/](assets/images/color-scheme.png)
 
+* IMAGES
+    * I sourced most of the images for the gallery and have downloaded 7 stock images from https://www.pexels.com/
+    * There are a total of 16 images across the site, including one for the background image
+    * All images have been compressed through `Tinypng.com`
 
+* TYPOGRAPHY
+    * The fonts used for my website are "Nunito" and "Dosis". The font is imported from Google Fonts
+
+# 
+
+# TESTING
+
+* The site has been tested through multiple tests on each individual page.
+
+# DEVICES
+* I have tested responsiveness and functionality on android, apple devices, desktops and laptops and on different browsers, more specifically:
+    * Galaxy Note II
+    * Iphone SE
+    * Iphone XR
+    * Iphone 12 Pro
+    * Pixel 5
+    * Samsung Galaxy s8+
+    * Samsung Galaxy S20 Ultra
+    * Ipad Air
+    * Ipad Mini
+    * Surface Pro 7
+    * Surface Duo
+    * Nest Hub
+    * Nest Hub Max
+    * Lenovo Thinkpad
+    * Mac Book Pro
+    * Browsers:
+      * Chrome
+      * Edge
+      * Firefox
+      * Safari
+      * Samsung internet
 
 ## Testing 
 
-I tested that this page works in different browsers: Chrome, Fireox and Safari.
+# Validators
+
+* I ran all of my code through css-validator and html-validator
+
+# Lighthouse
+
+* I ran each page live through Chrome Lighthouse and received the following results:
+* ![Screenshot of lighthouse report](assets/images/lighthouse.png)
+
+
+
 
 I have tested the responsiveness of the website ensuring that it looks good and functions on all screen sizes using the devtools device toolbar.
 
