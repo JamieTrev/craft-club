@@ -112,6 +112,10 @@ My initial idea for the project was to create a colourful art website for parent
 # TESTING
 
 * The site has been tested through multiple tests on each individual page.
+* I have tested that all the footer links direct to the correct page opens in a new tab.
+* I have checked all the nav links direct to the correct page.
+* I have checked the form to ensure mandatory data is filled in correctly and works correctly
+* ![Screenshot of form submit validation](assets/images/form-test.png)
 
 # DEVICES
 * I have tested responsiveness and functionality on android, apple devices, desktops and laptops and on different browsers, more specifically:
@@ -137,55 +141,29 @@ My initial idea for the project was to create a colourful art website for parent
       * Safari
       * Samsung internet
 
-## Testing 
-
-# Validators
+## Validators
 
 * I ran all of my code through css-validator and html-validator
 
-# Lighthouse
+## Lighthouse
 
 * I ran each page live through Chrome Lighthouse and received the following results:
 * ![Screenshot of lighthouse report](assets/images/lighthouse.png)
 
-
-
-
-I have tested the responsiveness of the website ensuring that it looks good and functions on all screen sizes using the devtools device toolbar.
-
-I have designed the navigation, header, home, gallery and make booking are all readable and easy to understand.
-
-I have tested that the make booking form works: requires entries in mandatory fields, only accepts an email in the email field, and the send button works.
-
-
-### Bugs
+# Bugs and Fixes
 
 ## Solved bugs
 
-When I checked my code in the browser, none of the styling was being applied until I realised I had not used the correct file path to the stylesheet.
-
-Images were not uploading: I would drag the images I wanted to the images folder but the upload status remained at 0 for many minutes until I realised the file size I was trying to upload were too big.
+* When I checked my code in the browser, none of the styling was being applied until I realised I had not used the correct file path to the stylesheet.
+* Images were not uploading: I would drag the images I wanted to the images folder but the upload status remained at 0 for many minutes until I realised the file size I was trying to upload were too big.
 I reduced the size using <https://tinypng.com/>
+* Lots of trial and error was necessary to resolve the responsiveness of different screen sizes.
 
 ## Unsolved bugs
 
-I have had continuous issues with my README file in which certain keys of my computer keyboard will not respond. The backspace and enter keys are not working and like the template I was using at the beginning of this project, I now do not have short hand use of syntax which takes significantly longer.
+* I have had continuous issues with my README file in which certain keys of my computer keyboard will not respond. The backspace and enter keys are not working and like the template I was using at the beginning of this project, I now do not have short hand use of syntax which takes significantly longer.
 
-### Validator Testing
-
-HTML - No errors were found when using the official W3C validator
-
-![Screenshot of the report here]
-
-CSS - No errors were found when using the official W3C CSS validator
-
-![Screenshot of the report here]
-
-Accessibility - I confirmed that the colours and fonts chosen are easy to read and accessible running it through lighthouse is devtools.
-
-![Screenshot of the lighthouse report here]
-
-### Deployment
+# Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab.
@@ -194,21 +172,23 @@ From the source section drop-down menu, select the Main Branch.
 Once the Main Branch has been selected, the page provided the link to the completed website after a couple of minutes.
 The live link can be found here - https://jamietrev.github.io/craft-club/
 
-### Credits
+# Credits
 
-Content
+## Content
 
-The club ethos section and the gallery were loosly based on the love running project.
+* The club ethos section and the gallery were loosly based on the love running project.
 
-Many thanks to tutors, students and graduates in the Slack community for helpful advise along the way.
-Big thank you to my Tutor Sandeep Aggarwal for his time and advise on our calls.
-Thank you to my Mum for the inspiration for the Craft Club project idea.
-Thak you to my wife Chloe for her support in doing this course.
+## References
 
+* I reduced the image file size using <https://tinypng.com/>
+* I downloaded 7 images from www.pexels.com
+* I decided to choose a colour palette from colorhunt.co
+* Used Lighthouse (performace score was 61 before resizing images on imageresizer.com and performance climbed to 83).
+* I used https://fontawesome.com/ for the icons next to the headings
 
-I reduced the image file size using <https://tinypng.com/>
-I downloaded ? images from www.pexels.com.ff
-I decided to choose a colour palette from colorhunt.co
-Used Lighthouse (performace score was 61 before resizing images on imageresizer.com and performance climbed to 83).
+## Acknowledgements
 
-Font Awesome for the icons
+* Many thanks to tutors, students and graduates in the Slack community for helpful advise along the way.
+* Big thank you to my Tutor Sandeep Aggarwal for his time and advise on our calls.
+* Thank you to my Mum for the inspiration for the Craft Club project idea.
+* Thank you to my wife Chloe for her support in getting enrolled onto this course.
