@@ -38,10 +38,10 @@ My initial idea for the project was to create a colourful art website for parent
   * [DEVICES](#devices)
   * [VALIDATORS](#validators)
   * [LIGHTHOUSE](#lighthouse)
-- [SOLVED BUGS](#solved-bugs-and-errors)
-  * [UNSOLVED BUGS](#unsolved-bugs-and-errors)
+- [SOLVED BUGS](#solved-bugs)
+  * [UNSOLVED BUGS](#unsolved-bugs)
 - [DEPLOYMENT](#deployment)
-- [CREDITS](#credits-and-references)
+- [CREDITS](#credits)
 - [ACKNOWLEDGEMENTS](#acknowledgements)
 
 #  
