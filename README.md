@@ -76,8 +76,12 @@ My initial idea for the project was to create a colourful art website for parent
 * ![Screenshot of my header and nav bar](assets/images/nav-bar.png)
 * Welcome message:
 * ![Screenshot of welcome message](assets/images/welcome-message.png)
-* Shortcut to class timetable
+* Shortcut link to class timetable:
 * ![Screenshot of shortcut link](assets/images/shortcut.png)
+* Club Ethos:
+* ![Screenshot of club ethos section](assets/images/club-ethos.png)
+* Class Timetable:
+* ![Screenshot of Timetable](assets/images/class-timetable.png)
 * Footer:
 * ![Screenshot of my footer](assets/images/footer.png)
 * Layout and content:
@@ -85,23 +89,17 @@ My initial idea for the project was to create a colourful art website for parent
     * The Gallery will have multiple images of art children have produced and what there is to offer at the art classes
     * The Book Now page will have a form to include first name, last name, email address, a check box option to choose a class and which age class the user would like to book, an additional comments box and a send button
 
+* Contact Form:
+    * Form validation requests the user to input the correct information in the input fields,
+      This avoids the user sending illegible text/email.
+    * ![Screenshot of form validation](assets/images/form-validation.png)
 
-### Shortcut to Classes
-This link takes the user directly to the list to art classes available and the days and times they're on.
+## DESIGN
+* Color Scheme:
+    * This was always going to be a bright colour due to the fact this is an arts a crafts website, the colour scheme chosen were yellow, red and purple, all the while ensuring all text was clear and readable
+    * ![Screenshot of color scheme chosen at https://colorhunt.co/](assets/images/color-scheme.png)
 
-![Cropped screenshot of the class timetable shortcut]
 
-### Club Ethos section
-This section with the heading 'Explore Your Creative Side' gives a little more description about the classes the Craft Club have to offer, it lists the classes and supplies the user with useful information before they decide weather to book the class.
-A fun picture of one of the pottery classes is added uderneath this section to give the user an glimps of what to expect.
-
-![Screenshot of the club ethos section]
-
-### Class timetable
-This table supplies the user when WHEN their favourite classes are on, including the day, time and age group.
-Attached to the bottom of the table is a 'Make Booking' button to allow users easy navigation to the booking page to book their class.
-
-![Screenshot of the class timetable and make booking button]
 
 ## Testing 
 
