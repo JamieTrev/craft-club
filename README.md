@@ -74,40 +74,17 @@ My initial idea for the project was to create a colourful art website for parent
     * Each page will have the same body layout, `HEADER (TITLE)`, `NAVBAR`, `MAIN CONTENT` and `FOOTER (ADDRESS AND SOCIAL MEDIA ICONS/LINKS)`
 * Navigation bar:
 * ![Screenshot of my header and nav bar](assets/images/nav-bar.png)
+* Welcome message:
+* ![Screenshot of welcome message](assets/images/welcome-message.png)
+* Shortcut to class timetable
+* ![Screenshot of shortcut link](assets/images/shortcut.png)
 * Footer:
 * ![Screenshot of my footer](assets/images/footer.png)
 * Layout and content:
-    * The Home page will have some introductory text and 4 images, followed by an overview of the site and two videos
-    * The Rules page will have information on the rules and styles of the sport including accompanying images
-    * The Gallery will have multiple images varying scenes in the sport of trials riding
-    * The Contact page will have a form to include first name, last name, email address and a submit button
-    * The Thankyou page with have some thankyou text and a thumbs up logo
+    * The Home page will have a welcome message indicating who the taget audience is, overlaying 1 large picture as an example of what the Craft Club has to offer. A description of the classes and a timetable of when the classes are
+    * The Gallery will have multiple images of art children have produced and what there is to offer at the art classes
+    * The Book Now page will have a form to include first name, last name, email address, a check box option to choose a class and which age class the user would like to book, an additional comments box and a send button
 
-* Hover effect on links and social media icons:
-    * Indicates to the user the location of the mouse whilst navigating the menu
-    * A Curved underline helps the user to know which page they are currently on
-    * <img src="testing/hover effect.png" width=400>
-
-* Contact Form:
-    * Form validation requests the user to input the correct information in the input fields,
-      This avoids the user sending illegible text/email.
-    * <img src="testing/requiredtext.png" width=400>
-
-
-
-## Features
-
-### Navigation
-Featured at the top of the page, the navigation shows the club name in the left corner.
-The other navigation links are to the right: Home, Gallery and Make Booking. This is identicle on all three pages of the website to allow for easy navigation.
-This section will allow the user to easily navigate from page to page across all devices without having to revert back to the homepage each time.
-
-![Cropped screenshot of the logo and navigation bar]
-
-### Welcome Message 
-The welcome message explains what the club is and who is is for.
-
-![Screenshot of the welcome message]
 
 ### Shortcut to Classes
 This link takes the user directly to the list to art classes available and the days and times they're on.
