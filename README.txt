@@ -1,3 +1,6 @@
+My mentor has advised I use this README.txt to write my README.md file as there seems to be issues with my .md file. I am unable to enter onto a new line or use the backspace key. I have been forced to make adjustments on here and then copy, paste everything onto the .md file. 
+
+
 # PORTFOLIO PROJECT - 1
 
 # Craft Club
